@@ -2,6 +2,9 @@
 
 A high-resolution weighing system designed for automated food dispensing applications, built around the ADS1220 24-bit Σ-Δ ADC and STM32G431 microcontroller. Achieves **0.005 g/step resolution** through ratiometric measurement and precision analog front-end design.
 
+<img width="1146" height="768" alt="image" src="https://github.com/user-attachments/assets/94f3b5eb-1c73-4ed7-b9b0-e9c9eb4e6f7d" />
+
+
 ---
 
 ## System Overview
